@@ -1,0 +1,17 @@
+{
+  "name": "cwicaksono/php-codecoverage",
+  "type": "library",
+  "license": "MIT",
+  "description": "PHP CodeCoverage Example",
+  "require": {
+    "php": ">=8.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~9.5"
+  },
+  "autoload": {
+    "files": [
+      "calculator/BasicCalculator.php"
+    ]
+  }
+}
